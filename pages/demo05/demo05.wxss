@@ -1,0 +1,9 @@
+/* pages/demo05/demo05.wxss */
+@import "../../styles/common.wxss";
+
+view{
+  height: 200px;
+  width: 200rpx;
+  background-color: aquamarine;
+  font-size: 40rpx;
+}

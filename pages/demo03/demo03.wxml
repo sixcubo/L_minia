@@ -1,2 +1,4 @@
 <!--pages/demo03/demo03.wxml-->
-<text>pages/demo03/demo03.wxml</text>
+<view wx:for="{{ll}}">
+    {{index}} -- {{item.id}}
+</view>
